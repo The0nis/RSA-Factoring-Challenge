@@ -18,6 +18,7 @@ please any contribution towards making this project work for bignums will be hig
 
 - So yes all data transmitted to/from server over HTTPs is encrypted and encrypted well. Typical SSL implementations use 128 or 256 digits for their keys. To break this you need a truly vast amount of computing resources.
 
+Below are the task to do
 ## Tasks
 
 - ### 0. Factorize all the things!
